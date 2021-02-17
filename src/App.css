@@ -14,6 +14,24 @@
   margin: -2em 1em 1em -5em;
 }
 
+.App-pic3 {
+  height: 50vmin;
+  pointer-events: none;
+  margin: -2em 1em 1em -3em;
+}
+
+.App-pic4 {
+  height: 30vh;
+  pointer-events: none;
+  margin: 3em -5em 4em -4em;
+}
+
+.App-pic5 {
+  height: 70vmin;
+  pointer-events: none;
+  margin: -2em 1em 1em -5em;
+}
+
 .App-header {
   background-color: #F0F465;
   min-height: 100vh;
@@ -32,4 +50,41 @@
 .Wa-button {
   color: blue;
   margin: 4em;
+}
+
+
+.marquee-container {
+  display: flex;
+  justify-content: left;
+}
+
+.marquee {
+  border: solid 1px #0f0;
+  width: 100vw;
+  padding: 0em 0;
+  text-align: center;
+  overflow: hidden;
+  color: black;
+}
+
+.marquee-content {
+  animation-duration: 20s;
+  animation-name: marquee;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.marquee-content.inactive {
+  animation-play-state: paused;
+}
+
+
+@keyframes marquee {
+  from {
+    transform: translateX(100%)
+  }
+
+  to {
+    transform: translateX(-100%)
+  }
 }

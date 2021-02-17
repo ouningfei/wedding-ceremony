@@ -83,11 +83,9 @@ export default function CenteredGrid() {
         </Grid>
         <Grid item xs={5}>
           {/* <Paper className={classes.paper}> */}
-              Wedding Day: <br /><strong>10 April 2021
-              9:45 AM<br /><br /></strong>
               Jurong Christian Church<br />
               Level 5<br /><br />
-              2 Tah Ching Rd,
+              2 Tah Ching Rd, <br />
               Singapore 618744<br /><br />
               Dress Code:  
               Colourful
