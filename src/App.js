@@ -14,11 +14,11 @@ function App() {
         <p>
           LIZ & NING'S WEDDING
         </p>
-        <marquee bgcolor="#FF0000" scrolldelay="50" scrollamount="10" truespeed>
+        {/* <marquee bgcolor="#FF0000" scrolldelay="50" scrollamount="10" truespeed>
           <Typography variant="h2" color='textPrimary'>
             Welcome! You have arrived at our wedding details page. Pls what-apps them if you haven't RSVPed you rascal.
           </Typography>
-        </marquee>
+        </marquee> */}
         <br />
         <CenteredGrid />
       </header>
