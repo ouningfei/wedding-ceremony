@@ -6,6 +6,9 @@ import pic4 from './pic4.jpg';
 import pic5 from './pic5.jpg';
 import pic6 from './pic6.jpg';
 import pic7 from './pic7.jpg';
+import pic8 from './pic8.jpg';
+import pic9 from './pic9.jpg';
+import pic10 from './pic10.jpg';
 import Marquee from "./Marquee";
 import './App.css';
 import './Components/Grid.js';
@@ -40,8 +43,11 @@ function App() {
       <img src={pic2} className="App-pic3" alt="logo" />
       <img src={pic3} className="App-pic4" alt="logo" />
       <img src={pic5} className="App-pic5" alt="logo" />
-      <img src={pic6} className="App-pic4" alt="logo" />
+      <img src={pic6} className="App-pic5" alt="logo" />
       <img src={pic7} className="App-pic2" alt="logo" />
+      <img src={pic8} className="App-pic4" alt="logo" />
+      <img src={pic9} className="App-pic3" alt="logo" />
+      <img src={pic10} className="App-pic2" alt="logo" />
       <p>
         b/w photos by Jiehao
       </p>
