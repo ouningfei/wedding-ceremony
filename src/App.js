@@ -3,7 +3,7 @@ import lizning2 from './lizning2.jpg';
 import './App.css';
 import './Components/Grid.js';
 import CenteredGrid from './Components/Grid.js';
-import { Typography } from '@material-ui/core';
+// import { Typography } from '@material-ui/core';
 
 
 function App() {

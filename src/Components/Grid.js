@@ -91,10 +91,10 @@ export default function CenteredGrid() {
               Singapore 618744<br /><br />
               Dress Code:  
               Colourful
-        <Button variant="outlined" color="textPrimary" href="http://wa.me/6590604088" className={classes.margin}>
+        <Button variant="outlined" color="primary" href="http://wa.me/6590604088" className={classes.margin}>
           Whatapps Ning &#x27A4;
         </Button>
-        <Button variant="outlined" color="textPrimary" href="http://wa.me/6598394937" className={classes.margin}>
+        <Button variant="outlined" color="primary" href="http://wa.me/6598394937" className={classes.margin}>
           Whatapps Liz &#x27A4;
         </Button>
           {/* </Paper> */}
