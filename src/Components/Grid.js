@@ -40,6 +40,20 @@ export default function CenteredGrid() {
                 <li>Isabella</li>
                 <li>Giegie</li>
                 <li>Uncle Taikok</li>
+                <li>Bryan</li>
+                <li>Shan</li>
+                <li>Rach Goh</li>
+                <li>Daryl Leong</li>
+                <li>Baby Emma</li>
+                <li>James</li>
+                <li>Steph</li>
+                <li>Meiryl</li>
+                <li>Shaun</li>
+                <li>Baby Natalie</li>
+                <li>Clara</li>
+                <li>Wei Wen</li>
+                <li>Prince Nathan</li>
+                <li>Suanne</li>
                 {/* <li>Solemnizer</li>
                 <li>Rach Lim</li>
                 <li>Brenda</li>
@@ -49,17 +63,6 @@ export default function CenteredGrid() {
                 <li>Aggie</li>
                 <li>Deb</li>
                 <li>Chris</li>
-                <li>Clara</li>
-                <li>Nathan</li>
-                <li>Rach Goh</li>
-                <li>Daryl Lee</li>
-                <li>Emma?</li>
-                <li>James</li>
-                <li>Steph</li>
-                <li>Meiryl</li>
-                <li>Shaun</li>
-                <li>Natalie?</li>
-                <li>Suanne</li>
                 <li>Liuyi</li>
                 <li>Ben</li>
                 <li>Clifton</li>
@@ -68,8 +71,6 @@ export default function CenteredGrid() {
                 <li>Jiehao</li>
                 <li>Lloyd</li>
                 <li>Andre</li>
-                <li>Bryan</li>
-                <li>Shan</li>
                 <li>Darren</li>
                 <li>David loo</li>
                 <li>Hanlin</li>
