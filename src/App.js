@@ -13,8 +13,15 @@ import Marquee from "./Marquee";
 import './App.css';
 import './Components/Grid.js';
 import CenteredGrid from './Components/Grid.js';
+import SpotifyPlayer from 'react-spotify-player';
 // import { Typography } from '@material-ui/core';
 
+const size = {
+  width: '30%',
+  height: 90,
+};
+const view = 'list'; // or 'coverart'
+const theme = 'black'; // or 'white'
 
 function App() {
   return (
@@ -26,7 +33,7 @@ function App() {
           <strong>10 APRIL 2021 <br />
           9:45 AM</strong>
         </h2>
-        <Marquee string="Welcome! You have arrived at this awesome page. Please RSVP if you haven't, you beautiful sly dawg you."/>
+        <Marquee string="Welcome VIP. Congratulations! You have arrived at this awesome page. Please RSVP if you haven't, you beautiful thing you."/>
         {/* <marquee bgcolor="#FF0000" scrolldelay="50" scrollamount="10" truespeed>
           <Typography variant="h2" color='textPrimary'>
             Welcome! You have arrived at our wedding details page. Pls what-apps them if you haven't RSVPed you rascal.
@@ -34,7 +41,24 @@ function App() {
         </marquee> */}
         <br />
         <CenteredGrid />
-      </header>
+      <SpotifyPlayer
+        uri="spotify:playlist:6LeXBnFIU7ow3RD5EVAJPL"
+        size={size}
+        view={view}
+        theme={theme}
+        /><span className="lyrics">I don't believe in an interventionist God
+        But I know, darling, that you do
+        But if I did I would kneel down and ask Him
+        Not to intervene when it came to you
+        Not to touch a hair on your head
+        To leave you as you are
+        And if He felt He had to direct you
+        Then direct you into my arms
+        Into my arms, O Lord
+        Into my arms, O Lord
+        Into my arms, O Lord
+        Into my arms</span>
+        </header>
       <img src={pic4} className="App-pic2" alt="logo" />
       <img src={lizning2} className="App-pic3" alt="logo" />
       <p>

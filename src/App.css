@@ -88,3 +88,7 @@
     transform: translateX(-100%)
   }
 }
+
+.lyrics {
+  font-size: small;
+}
