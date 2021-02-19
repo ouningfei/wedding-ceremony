@@ -54,6 +54,16 @@ export default function CenteredGrid() {
                 <li>Wei Wen</li>
                 <li>Prince Nathan</li>
                 <li>Suanne</li>
+                <li>Liuyi</li>
+                <li>Ben</li>
+                <li>Clifton</li>
+                <li>Hazel</li>
+                <li>Leonard</li>
+                <li>Lloyd</li>
+                <li>Jiehao</li>
+                <li>Andre</li>
+                <li>David loo</li>
+                <li>Hanlin</li>
                 {/* <li>Solemnizer</li>
                 <li>Rach Lim</li>
                 <li>Brenda</li>
@@ -63,17 +73,7 @@ export default function CenteredGrid() {
                 <li>Aggie</li>
                 <li>Deb</li>
                 <li>Chris</li>
-                <li>Liuyi</li>
-                <li>Ben</li>
-                <li>Clifton</li>
-                <li>Hazel</li>
-                <li>Leonard</li>
-                <li>Jiehao</li>
-                <li>Lloyd</li>
-                <li>Andre</li>
                 <li>Darren</li>
-                <li>David loo</li>
-                <li>Hanlin</li>
                 <li>Huijie</li>
                 <li>Bryan Ong</li>
                 <li>David Wong</li> */}
