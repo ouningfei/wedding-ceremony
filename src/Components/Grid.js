@@ -64,17 +64,17 @@ export default function CenteredGrid() {
                 <li>Andre</li>
                 <li>David loo</li>
                 <li>Hanlin</li>
-                {/* <li>Solemnizer</li>
-                <li>Rach Lim</li>
+                <li>Darren Tan</li>
+                <li>Huijie</li>
+                <li>Aggie</li>
                 <li>Brenda</li>
                 <li>Eunice</li>
                 <li>Huimin</li>
+                <li>Rachel Lim</li>
                 <li>Rowena</li>
-                <li>Aggie</li>
                 <li>Deb</li>
                 <li>Chris</li>
-                <li>Darren</li>
-                <li>Huijie</li>
+                {/* <li>Solemnizer</li>
                 <li>Bryan Ong</li>
                 <li>David Wong</li> */}
             </ol>
