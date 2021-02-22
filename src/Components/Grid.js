@@ -68,10 +68,10 @@ export default function CenteredGrid() {
                 <li>Huijie</li>
                 <li>Aggie</li>
                 <li>Brenda</li>
-                <li>Eunice</li>
-                <li>Huimin</li>
-                <li>Rachel Lim</li>
-                <li>Rowena</li>
+                <li>Tang</li>
+                <li>Mintanaporn</li>
+                <li>Rach Lim</li>
+                <li>Ro</li>
                 <li>Deb</li>
                 <li>Chris</li>
                 {/* <li>Solemnizer</li>
