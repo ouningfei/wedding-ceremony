@@ -31,7 +31,7 @@ function App() {
         <h2>
           LIZ & NING'S WEDDING <br />
           <strong>10 APRIL 2021 <br />
-          9:45 AM</strong>
+          9:00 AM</strong>
         </h2>
         <Marquee string="Welcome VIP. Congratulations! You have arrived at this awesome page. Please RSVP if you haven't, you beautiful thing you."/>
         {/* <marquee bgcolor="#FF0000" scrolldelay="50" scrollamount="10" truespeed>
