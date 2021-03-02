@@ -40,7 +40,6 @@ export default function CenteredGrid() {
                 <li>Isabella</li>
                 <li>Giegie</li>
                 <li>Uncle Taikok</li>
-                <li>Solemnizer</li>
                 <li>Bryan</li>
                 <li>Shan</li>
                 <li>Rach Goh</li>
@@ -76,6 +75,7 @@ export default function CenteredGrid() {
                 <li>Deb</li>
                 <li>Chris</li>
                 <li>Wei Cheng</li>
+                <li>Solemnizer</li>
                 
                 {/*
                 <li>Bryan Ong</li>
