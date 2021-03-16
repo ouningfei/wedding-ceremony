@@ -99,6 +99,9 @@ export default function CenteredGrid() {
         <Button variant="outlined" color="primary" href="http://wa.me/6598394937" className={classes.margin}>
           Whatapps Liz &#x27A4;
         </Button>
+        <br />
+        Yes there is parking
+        No there isn't lunch I'm afraid
           {/* </Paper> */}
         </Grid>
         {/* <Grid item xs={4}>
