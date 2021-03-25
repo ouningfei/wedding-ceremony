@@ -102,6 +102,10 @@ export default function CenteredGrid() {
         <br />
         Yes there is parking
         No there isn't lunch I'm afraid
+        <br /><br />
+        <Button variant="outlined" color="primary" href="https://docs.google.com/spreadsheets/d/1__f1XVWe9xA15kBgyv6Wym5a-BMYu7qcL7uCBVSqzGw/edit#gid=292514077" className={classes.margin}>
+          VIEW SCHEDULE EXCEL &#x27A4;
+        </Button>
           {/* </Paper> */}
         </Grid>
         {/* <Grid item xs={4}>
