@@ -36,7 +36,7 @@ function App() {
         <Marquee string="Welcome VIP. Congratulations! You have arrived at this awesome page. Please RSVP if you haven't, you beautiful thing you."/>
         {/* <marquee bgcolor="#FF0000" scrolldelay="50" scrollamount="10" truespeed>
           <Typography variant="h2" color='textPrimary'>
-            Welcome! You have arrived at our wedding details page. Pls what-apps them if you haven't RSVPed you rascal.
+            Welcome! You have arrived at our wedding details page. Thank you for being part of this!
           </Typography>
         </marquee> */}
         <br />
